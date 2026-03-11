@@ -1,0 +1,11 @@
+{
+  "name": "vibiz-inc-landing",
+  "version": "1.0.0",
+  "description": "Vibiz Inc. - AI-Powered Funnels, Ads & Landing Pages",
+  "scripts": {
+    "build": "echo 'No build required for static site'"
+  },
+  "keywords": ["landing-page", "vibiz", "ai", "marketing"],
+  "author": "Vibiz Inc.",
+  "license": "UNLICENSED"
+}
